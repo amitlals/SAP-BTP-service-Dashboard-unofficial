@@ -20,7 +20,7 @@ Powered by every open API and your feedback, this app is designed to make your S
 
 ## App URL
 
-You can access the app using the following link:
+You can access the application using the following link. For the secret key, please reach out to aka.ms/amitlal 
 
 [Launch App](https://studio--btp-services-explorer.us-central1.hosted.app/login)
 
