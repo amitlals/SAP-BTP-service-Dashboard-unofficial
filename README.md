@@ -18,6 +18,12 @@ Powered by every open API and your feedback, this app is designed to make your S
 - 🔎 **Built-in SAP KBA Search**: Instantly look up SAP BTP services without leaving the app.
 - 🚀 **One-Click PoV Reviews**: Review and compare each BTP service with just the click of a button.
 
+## App URL
+
+You can access the app using the following link:
+
+[Launch App](https://studio--btp-services-explorer.us-central1.hosted.app/login)
+
 ### Why Use BTP Services Explorer?
 All your SAP BTP goodies on one platter—cheat-mode activated for developers! 🐵  
 
